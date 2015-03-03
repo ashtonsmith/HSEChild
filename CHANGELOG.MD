@@ -19,3 +19,8 @@ Added Required Plugins files into the directory
 v1.0.3
 -----------------------
 Added Custom Footer Text
+
+
+v1.0.4
+-----------------------
+Added Media Folder and screenshot.png
