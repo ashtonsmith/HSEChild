@@ -15,3 +15,7 @@ v1.0.2
 -----------------------
 Added Required Plugins files into the directory
 
+
+v1.0.3
+-----------------------
+Added Custom Footer Text
