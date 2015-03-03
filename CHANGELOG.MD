@@ -44,3 +44,9 @@ fix logo path
 v1.0.8
 -----------------------
 fix logo path to use stylesheet directory uri
+
+
+v1.0.9
+-----------------------
+Added TGM Plugin Activation, and added theme updater to required plugins
+
