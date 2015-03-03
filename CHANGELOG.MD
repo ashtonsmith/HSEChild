@@ -50,3 +50,8 @@ v1.0.9
 -----------------------
 Added TGM Plugin Activation, and added theme updater to required plugins
 
+
+v1.0.10
+-----------------------
+fixed TGM Plugin Activation slug links
+

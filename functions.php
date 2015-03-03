@@ -37,7 +37,7 @@ function my_theme_register_required_plugins() {
         // This is an example of how to include a plugin pre-packaged with a theme.
         array(
             'name'               => 'Theme Updater', // The plugin name.
-            'slug'               => 'theme-updater', // The plugin slug (typically the folder name).
+            'slug'               => 'Theme-Updater', // The plugin slug (typically the folder name).
             'source'             => get_stylesheet_directory() . '/required-plugins/plugins/Theme-Updater.zip', // The plugin source.
             'required'           => true, // If false, the plugin is only 'recommended' instead of required.
             'version'            => '', // E.g. 1.0.0. If set, the active plugin must be this version or higher.
