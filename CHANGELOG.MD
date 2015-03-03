@@ -34,3 +34,8 @@ Added header.php and specified default logo
 v1.0.6
 -----------------------
 fix logo path
+
+
+v1.0.7
+-----------------------
+fix logo path
