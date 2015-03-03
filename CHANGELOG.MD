@@ -29,3 +29,8 @@ Added Media Folder and screenshot.png
 v1.0.5
 -----------------------
 Added header.php and specified default logo
+
+
+v1.0.6
+-----------------------
+fix logo path
