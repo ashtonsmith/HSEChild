@@ -24,3 +24,8 @@ Added Custom Footer Text
 v1.0.4
 -----------------------
 Added Media Folder and screenshot.png
+
+
+v1.0.5
+-----------------------
+Added header.php and specified default logo
