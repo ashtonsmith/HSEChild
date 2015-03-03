@@ -39,3 +39,8 @@ fix logo path
 v1.0.7
 -----------------------
 fix logo path
+
+
+v1.0.8
+-----------------------
+fix logo path to use stylesheet directory uri

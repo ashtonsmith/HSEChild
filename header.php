@@ -52,7 +52,7 @@
             </a>
         <?php } else { ?>
             <a href="<?php echo site_url() ?>" title="<?php echo get_bloginfo('name') ?>">
-                <img src="<?php echo get_template_directory_uri(); ?>HSEChild/media/hse-logo.png"
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/media/hse-logo.png"
                      data-at2x="<?php echo get_template_directory_uri(); ?>/img/logo@2x.png"
                      alt="<?php bloginfo('name') ?>"/>
             </a>
