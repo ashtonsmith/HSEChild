@@ -60,3 +60,8 @@ v1.0.11
 -----------------------
 Added Styling for Menubar and Services Grids
 
+
+v1.0.11
+-----------------------
+Changed Styling for Services Grids
+

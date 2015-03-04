@@ -5,7 +5,7 @@
  Author:         Ashton Smith
  Author URI:     http://www.pinnacleservices.co
  Template:       industrix
- Version:        1.0.11
+ Version:        1.0.12
 */
  
  
@@ -726,11 +726,11 @@ a.list-group-item.active:focus {
 }
 
 .showcase-right ul.top-service-box li:nth-child(2) {
-    background : #0f0f0f;
+    background : #333399;
 }
 
 .showcase-right ul.top-service-box li:nth-child(3) {
-    background : #0f0f0f;
+    background : #333399;
 }
 
 .showcase-right ul.top-service-box li:nth-child(4) {
@@ -782,16 +782,16 @@ a.list-group-item.active:focus {
 
 .showcase-right ul.top-service-box li:hover:nth-child(2) {
     z-index            : 999;
-    -webkit-box-shadow : 0 0 0 12px #0f0f0f;
-    -moz-box-shadow    : 0 0 0 12px #0f0f0f;
-    box-shadow         : 0 0 0 12px #0f0f0f;
+    -webkit-box-shadow : 0 0 0 12px #333399;
+    -moz-box-shadow    : 0 0 0 12px #333399;
+    box-shadow         : 0 0 0 12px #333399;
 }
 
 .showcase-right ul.top-service-box li:hover:nth-child(3) {
     z-index            : 999;
-    -webkit-box-shadow : 0 0 0 12px #0f0f0f;
-    -moz-box-shadow    : 0 0 0 12px #0f0f0f;
-    box-shadow         : 0 0 0 12px #0f0f0f;
+    -webkit-box-shadow : 0 0 0 12px #333399;
+    -moz-box-shadow    : 0 0 0 12px #333399;
+    box-shadow         : 0 0 0 12px #333399;
 }
 
 .showcase-right ul.top-service-box li:hover:nth-child(4) {
