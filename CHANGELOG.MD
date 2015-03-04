@@ -55,3 +55,8 @@ v1.0.10
 -----------------------
 fixed TGM Plugin Activation slug links
 
+
+v1.0.11
+-----------------------
+Added Styling for Menubar and Services Grids
+
