@@ -61,7 +61,12 @@ v1.0.11
 Added Styling for Menubar and Services Grids
 
 
-v1.0.11
+v1.0.12
 -----------------------
 Changed Styling for Services Grids
+
+
+v1.0.13
+-----------------------
+Modified Footer text
 

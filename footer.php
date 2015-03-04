@@ -23,7 +23,7 @@
                                     <?php printf(
                                         __('Copyright &copy; %1$s %2$s. All Rights Reserved.<br/>Designed by <a href="%3$s" title="%4$s" rel="designer">%5$s</a>', HIPPO_TEXTDOMAIN),
                                         date('Y'),
-                                        __('HSE'),
+                                        __('Height Safety'),
                                         esc_url('http://www.pinnacleservices.co'),
                                         'Visit The Designer!',
                                         'Pinnacle Services'); ?>
