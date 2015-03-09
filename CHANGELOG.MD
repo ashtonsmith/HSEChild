@@ -75,3 +75,8 @@ v1.0.14
 -----------------------
 Updated Version to 1.0.14
 
+
+v1.0.15
+-----------------------
+Changed Default Logo for Retina display devices
+

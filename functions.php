@@ -3,7 +3,7 @@
  *
  * @package    TGM-Plugin-Activation
  * @version    2.4.0
- * @author     AShton Smith <pinnacleservices.co>
+ * @author     Ashton Smith <pinnacleservices.co>
  * @license    http://opensource.org/licenses/gpl-2.0.php GPL v2 or later
  * @link       https://github.com/thomasgriffin/TGM-Plugin-Activation
  */
