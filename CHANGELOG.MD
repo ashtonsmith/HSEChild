@@ -80,3 +80,7 @@ v1.0.15
 -----------------------
 Changed Default Logo for Retina display devices
 
+
+v1.1.0
+-----------------------
+Version Update
