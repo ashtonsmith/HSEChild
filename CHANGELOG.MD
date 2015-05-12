@@ -84,3 +84,8 @@ Changed Default Logo for Retina display devices
 v1.1.0
 -----------------------
 Version Update
+
+
+V1.1.1
+-----------------------
+Disable box shadow on mega-menu slider
